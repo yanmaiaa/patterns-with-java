@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PdfGeneratorApplication {
+public class PatternsWithJava {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PdfGeneratorApplication.class, args);
+		SpringApplication.run(PatternsWithJava.class, args);
 	}
 
 }
